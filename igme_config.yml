@@ -1,16 +1,14 @@
 series: Basic C++
-title: Data Types
+title: Functions
 author:
   name: David Erbelding
   email: daviderbelding@gmail.com
   github: https://github.com/Erbelding
-description: An in depth look at basic data types in C++.
+description: Use functions to wrap useful code.
 language: C++
 tags:
   - Core
 extra_resources:
-  - link: http://www.cplusplus.com/doc/tutorial/variables/
-    title: More Information about C++ data types.
 connections:
   - series: Basic C++
-    title: Hello World!
+    title: Data Types

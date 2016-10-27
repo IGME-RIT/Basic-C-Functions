@@ -1,6 +1,6 @@
-# Basic C++: Data Types
+# Basic C++: Functions
 
-This example shows most of the different data types used in C++. It also demonstrates the use of sizeof to get the size of types and variables.
+This code demonstrates basic usage of functions in C++, and attempts to explain the concept of forward declaration.
 
 # Setup
 

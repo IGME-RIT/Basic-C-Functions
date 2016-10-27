@@ -85,14 +85,20 @@ float getAreaOfRectangle(float side1, float side2)
 // Start of main function
 int main() 
 {
-    // for loop.
-    // Loop 3 times and call A B and C.
-    for (int i = 0; i < 3; i++)
-    {
-        functionA();
-        functionB();
-        functionC();
-    }
+    // Functions can be repeated to run the same code over and over again.
+    functionA();
+    functionA();
+    functionA();
+
+    functionB();
+    functionB();
+    functionB();
+
+    functionC();
+    functionC();
+    functionC();
+
+
 
     float temp;
 
