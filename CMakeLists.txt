@@ -5,7 +5,7 @@ else()
 cmake_minimum_required (VERSION 3.0)
 endif()
 
-project(data-types)
+project(headers)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
